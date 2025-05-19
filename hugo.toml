@@ -1,4 +1,4 @@
 languageCode = 'en-us'
 title = 'Siente Bien'
-theme = "hugo-minimalist-spa"
+theme = "docsy"
 baseURL = "https://desnoeckstijn.github.io/SienteBien/"

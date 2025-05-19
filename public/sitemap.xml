@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/1-about/</loc>
+    <loc>http://localhost:1313/SienteBien/1-about/</loc>
   </url><url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/categories/</loc>
+    <loc>http://localhost:1313/SienteBien/categories/</loc>
   </url><url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/3-distribution/</loc>
+    <loc>http://localhost:1313/SienteBien/3-distribution/</loc>
   </url><url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/2-howtouse/</loc>
+    <loc>http://localhost:1313/SienteBien/2-howtouse/</loc>
   </url><url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/</loc>
+    <loc>http://localhost:1313/SienteBien/</loc>
   </url><url>
-    <loc>https://desnoeckstijn.github.io/SienteBien/tags/</loc>
+    <loc>http://localhost:1313/SienteBien/tags/</loc>
   </url>
 </urlset>
